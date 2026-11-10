@@ -18,7 +18,7 @@ The app asks for the microphone permission only when you tap Record in Speaking 
 
 ## 4. Free trial and purchase
 
-The app is free to use for 30 days. The start of the trial is read from Android's own record of when the app was installed; nothing is sent to us. After the trial, a one-time purchase (US$1.99, or the local price shown by Google Play) unlocks all practice permanently. The purchase is made through Google Play Billing. Google processes your payment and handles your payment details, name and e-mail under Google's own privacy policy; the developer does not receive them. The app stores only a yes/no flag on your phone saying the purchase was made, and asks Google Play on each start whether your account owns it, so you can restore it on a new phone. Google Play may share purchase order records with the developer through the Play Console for accounting and refunds.
+The app is free to use for 30 days. The start of the trial is read from Android's own record of when the app was installed; nothing is sent to us. After the trial, a one-time purchase (US$4.99, or the local price shown by Google Play) unlocks all practice permanently. The purchase is made through Google Play Billing. Google processes your payment and handles your payment details, name and e-mail under Google's own privacy policy; the developer does not receive them. The app stores only a yes/no flag on your phone saying the purchase was made, and asks Google Play on each start whether your account owns it, so you can restore it on a new phone. Google Play may share purchase order records with the developer through the Play Console for accounting and refunds.
 
 5. Crash and freeze reports (the only data the developer can receive)
 
