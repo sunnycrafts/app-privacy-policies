@@ -1,6 +1,6 @@
 Privacy Policy for Wordprint Vocabulary
 Effective: 12 November 2026. Applies to version 1.0.0 and later versions until a new policy is shown.
-App: Wordprint Vocabulary (Android package com.sunny.wordprint.vocabulary)
+App: Wordprint Vocabulary (Android package com.sunnycrafts.wordprint.vocabulary)
 Developer: SunnyCrafts. Contact: developer.sunnycrafts@gmail.com
 
 1. The short version
