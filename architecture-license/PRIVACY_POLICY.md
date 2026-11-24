@@ -1,6 +1,6 @@
 # Architecture License: Privacy Policy
 
-App: Architecture License (Android), package com.sunny.archlicense. Developer: sunnycrafts. Contact: developer.sunnycrafts@gmail.com. Effective date: 9 November 2026. Applies to version 1.0.0 and later until this policy is changed.
+App: Architecture License (Android), package com.sunnycrafts.archlicense. Developer: sunnycrafts. Contact: developer.sunnycrafts@gmail.com. Effective date: 9 November 2026. Applies to version 1.0.0 and later until this policy is changed.
 
 **1. The short version.** Your study progress, notes, logs, name and picture stay on your phone. The app has no account, no ads, no analytics and no tracking. Its own code makes no network calls and sends nothing. Something leaves your phone only when you choose to share, save or e-mail it.
 
